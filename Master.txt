@@ -1,0 +1,1 @@
+vless://9b9169c0-a39f-41bd-b43c-0dc72a94df0f@ip.onemaster.sbs:2083?type=ws&security=tls&path=%2F&host=master.onemaster.sbs&sni=ip.onemaster.sbs&fp=chrome#M%20A%20S%20T%20E%20R-Mehdi
